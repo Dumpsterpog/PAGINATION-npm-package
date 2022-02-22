@@ -1,1 +1,0 @@
-module.exports.pagination = require("./src/pagination")

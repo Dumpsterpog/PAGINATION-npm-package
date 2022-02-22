@@ -1,0 +1,14 @@
+{
+  "name": "platonic-pagination",
+  "version": "1.0.0",
+  "description": "A simple package for ur needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cls"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "author": "Atharva",
+  "license": "MIT"
+}
